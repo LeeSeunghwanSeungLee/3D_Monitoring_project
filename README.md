@@ -20,3 +20,18 @@ I Make this repository to create themes to use as a dashboard
 
 --------------------------
 ### connect with turtlebot
+
+
+계획
+
+- 좌표계산함수 검토
+
+- 업데이트 함수 및 listener 제작
+
+- innerHTML 을 통해 제어 확인.. -> 켜달라해서 실제로 내가만든 div에서 조작이 가능한지 확인 필수
+
+- 조작이 가능해졌다면 ui개선하기
+
+- 좌표 조작시 -> html 에 표기 후 trigger 
+
+- 지속적으로 get position... 해서 받아오기...
